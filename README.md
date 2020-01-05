@@ -17,14 +17,22 @@ If the road is not valid the program will exit with code 1 displaying a meaningf
 In any other case the program will exit with code -1.
 
 
-# Information on how to run the program.
+# Steps to download and build.
 
 Download the zip file.
 Extract the folder.
-Open the solution.
-Build the project and click start.
+Load the solution into Visual Studio IDE.
+Build the project.
+
+# Steps to run the project.
+
+After you have build the project click on start from visual studio and then on the command line type "A1" to get a successfull message or "T1" to get an unsuccesfull message.
 
 P.S you will need to add an AppId and your AppKey in the App.config file in order to make the requests.
+
+# Steps to run the tests.
+
+From the toolbar in Visual Studio select Tests --> Run all tests.
 
 # Solution.
 
