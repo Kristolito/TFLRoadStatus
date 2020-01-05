@@ -19,10 +19,10 @@ In any other case the program will exit with code -1.
 
 # Steps to download and build.
 
-Download the zip file.
-Extract the folder.
-Load the solution into Visual Studio IDE.
-Build the project.
+1 -> Download the zip file.
+2 -> Extract the folder.
+3 -> Load the solution into Visual Studio IDE.
+4 -> Build the project.
 
 # Steps to run the project.
 
