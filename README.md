@@ -12,17 +12,26 @@ Moq
 # Summary
 
 The program makes requests to the TFL Road Status API in order to get information about a road given.
+
 If the request is successfull the program will display the name and the severity status of the road and it will exit with code 0.
+
 If the road is not valid the program will exit with code 1 displaying a meaningfull message.
+
 In any other case the program will exit with code -1.
+
+You should always get an informative message in case of an error.
 
 
 # Steps to download and build.
 
 1 -> Download the zip file.
+
 2 -> Extract the folder.
+
 3 -> Load the solution into Visual Studio IDE.
+
 4 -> Build the project.
+
 
 # Steps to run the project.
 
