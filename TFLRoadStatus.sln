@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TflRoadStatus.Main", "TflRoadStatus.Main\TflRoadStatus.Main.csproj", "{CF3F076B-97D8-4807-9FBD-3582C0D9BE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLRoadStatus.Tests", "TFLRoadStatus.Tests\TFLRoadStatus.Tests.csproj", "{765206ED-E98B-42D6-81AD-49DFE3C72266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3F076B-97D8-4807-9FBD-3582C0D9BE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3F076B-97D8-4807-9FBD-3582C0D9BE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3F076B-97D8-4807-9FBD-3582C0D9BE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3F076B-97D8-4807-9FBD-3582C0D9BE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765206ED-E98B-42D6-81AD-49DFE3C72266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765206ED-E98B-42D6-81AD-49DFE3C72266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765206ED-E98B-42D6-81AD-49DFE3C72266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765206ED-E98B-42D6-81AD-49DFE3C72266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {664BAF1C-842B-48D5-A330-AA3C3CE0217B}
+	EndGlobalSection
+EndGlobal
