@@ -4,9 +4,13 @@ Road Status Requests to TFL API via command line.
 Technologies used.
 
 Visual Studio
+
 C#
+
 ASP.NET Framework 4.7.2
+
 NUnit --> for testing
+
 Moq
 
 # Summary
